@@ -2,4 +2,4 @@
 
 test netGet
 
-test from jones
+test from jones /2
