@@ -2,4 +2,4 @@
 
 test netGet
 
-test from jones /6.1
+test from jones /2.3
