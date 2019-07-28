@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <groups>
+        <group id = '11'><title>养老保险</title><memo>政策文件</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113811/wap_list.shtml</url><px>1</px></group>
+        <group id = '12'><title>养老保险</title><memo>办事指南</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113812/wap_list.shtml</url><px>2</px></group>
+        <group id = '13'><title>养老保险</title><memo>常见问题</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113813/wap_list.shtml</url><px>3</px></group>
+        <group id = '14'><title>养老保险</title><memo>服务机构</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113814/wap_list.shtml</url><px>4</px></group>
+        <group id = '15'><title>养老保险</title><memo>相关查询</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113815/wap_list.shtml</url><px>5</px></group>
+
+        <group id = '21'><title>工伤保险</title><memo>政策文件</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113818/wap_list.shtml</url><px>1</px></group>
+        <group id = '22'><title>工伤保险</title><memo>办事指南</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113819/wap_list.shtml</url><px>2</px></group>
+        <group id = '23'><title>工伤保险</title><memo>常见问题</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113820/wap_list.shtml</url><px>3</px></group>
+        <group id = '24'><title>工伤保险</title><memo>服务机构</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113821/wap_list.shtml</url><px>4</px></group>
+
+        <group id = '31'><title>医疗保险</title><memo>政策文件</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113824/wap_list.shtml</url><px>1</px></group>
+        <group id = '32'><title>医疗保险</title><memo>办事指南</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113825/wap_list.shtml</url><px>2</px></group>
+        <group id = '33'><title>医疗保险</title><memo>常见问题</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113826/wap_list.shtml</url><px>3</px></group>
+        <group id = '34'><title>医疗保险</title><memo>服务机构</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113827/wap_list.shtml</url><px>4</px></group>
+        <group id = '35'><title>医疗保险</title><memo>相关查询</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113827/wap_list.shtml</url><px>4</px></group>
+
+        <group id = '41'><title>失业保险</title><memo>政策文件</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113831/wap_list.shtml</url><px>1</px></group>
+        <group id = '42'><title>失业保险</title><memo>办事指南</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113832/wap_list.shtml</url><px>2</px></group>
+        <group id = '43'><title>失业保险</title><memo>常见问题</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113833/wap_list.shtml</url><px>3</px></group>
+        <group id = '44'><title>失业保险</title><memo>服务机构</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113834/wap_list.shtml</url><px>4</px></group>
+
+        <group id = '51'><title>生育保险</title><memo>政策文件</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113837/wap_list.shtml</url><px>1</px></group>
+        <group id = '52'><title>生育保险</title><memo>办事指南</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113838/wap_list.shtml</url><px>2</px></group>
+        <group id = '53'><title>生育保险</title><memo>常见问题</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113839/wap_list.shtml</url><px>3</px></group>
+        <group id = '54'><title>生育保险</title><memo>服务机构</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113840/wap_list.shtml</url><px>4</px></group>
+
+        <group id = '61'><title>综合服务</title><memo>政策文件</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113843/wap_list.shtml</url><px>1</px></group>
+        <group id = '62'><title>综合服务</title><memo>办事指南</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113844/wap_list.shtml</url><px>2</px></group>
+        <group id = '64'><title>综合服务</title><memo>服务机构</memo><url>http://cdhrss.chengdu.gov.cn/cdrsj/c113845/wap_list.shtml</url><px>4</px></group>
+    </groups>
+</resources>

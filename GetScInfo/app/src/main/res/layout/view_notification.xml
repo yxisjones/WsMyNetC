@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    android:orientation="horizontal"
+    android:rowCount="2" >
+
+    <ImageView
+        android:id="@+id/notification_icon"
+        android:layout_columnSpan="1"
+        android:layout_rowSpan="2"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:src="@mipmap/ic_view_pointblue"
+        android:focusable="false"/>
+
+    <TextView
+        android:id="@+id/notification_title"
+        android:text="TextView"
+        android:layout_column="1"
+        android:layout_columnSpan="2"
+        android:layout_row="0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="15"
+        android:textSize="15dp"
+        android:textColor="@color/colorPrimary"
+        />
+
+    <ImageView
+        android:layout_column="1"
+        android:layout_row="1"
+        android:id="@+id/notification_title_icon"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@mipmap/ic_view_pointgreen"
+        android:focusable="false"/>
+
+    <TextView
+        android:id="@+id/notification_txt"
+        android:text="TextView"
+        android:layout_column="2"
+        android:layout_row="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="13dp"
+        android:textColor="@color/colorPrimary"
+        />
+</GridLayout>

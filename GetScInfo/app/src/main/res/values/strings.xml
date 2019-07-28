@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">GetScInfo</string>
+    <string name="app_名字">变更提示</string>
+    <string name="debugTitle">提示:</string>
+    <string name="debug_Err_01">启动失败！</string>
+    <string name="debug_Msg_01">启动视图！</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="TAG_SIGN">WS</string>
+    <string name="CFG_LOGINTIME">logintime</string>
+    <string name="CFG_checkSpan">checkspan</string>
+    <string name="CFG_checkTime">checktime</string>
+    <string name="CFG_isCheckTime">ischecktime</string>
+    <string name="CFG_uiReflushSpan">uireflushspan</string>
+    <string name="title_activity_title_list">SC信息提示</string>
+    <string name="title_activity_ttest_scrolling">TTestScrollingActivity</string>
+    <string name="action_settings">Settings</string>
 </resources>
