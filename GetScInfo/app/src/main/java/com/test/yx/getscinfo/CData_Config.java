@@ -20,6 +20,7 @@ public class CData_Config extends CData_ObjectUnit implements Serializable {
 
     //// TODO: [变+] --> Serializable -80080000001000001L
     private static final long serialVersionUID = -80080000001000001L;
+    public static int onlyMe = 0;
 
     public long sleepTimeSpan = 1000 * 60;      //1分钟
     //public long sleepTimeSpan = 1000 * 3;
